@@ -12,5 +12,5 @@
 * 机器学习
 
 ### spark与Hadoop相关
-*spark 学习 ####(spark对数据挖掘算法的实现）
-*Hadoop相关 ####主要是文件系统和SQL
+*spark 学习 [SPARK](http://spark.apache.org/）
+*Hadoop相关 [Hadoop](http://hadoop.apache.org/)
