@@ -12,5 +12,5 @@
 * 机器学习
 
 ### spark与Hadoop相关
-*spark 学习 [SPARK](http://spark.apache.org/）
-*Hadoop相关 [Hadoop](http://hadoop.apache.org/)
+* spark 学习 [SPARK](http://spark.apache.org/）
+* Hadoop相关 [Hadoop](http://hadoop.apache.org/)
